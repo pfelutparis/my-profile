@@ -1,0 +1,157 @@
+body{
+	background-color: #052F5F;
+}
+
+h1{
+	color:#e01a4f;
+	font-family: 'Dela Gothic One', cursive;
+	font-size: 60px
+
+
+	
+}
+
+p{
+	color:#4ba3c3;
+	font-family: 'Bree Serif', serif;
+	text-justify: center;
+}
+	
+h2{ 
+	color:#ecebe4;
+	font-family: 'Dela Gothic One', cursive;
+}
+ul{
+	font-family: 'Bree Serif', serif;
+	color:#e01a4f;
+}
+
+.listdreams{
+	font-family: 'Bree Serif', serif;
+	color:#052F5F
+
+}
+a{	
+	color: #052F5F;
+	font-family: 'Arial Black', Gadget, sans-serif;
+	text-decoration: none; 
+
+ }
+ #lienlewagon{
+ 	background-color: #e01a4f
+ }
+
+
+.intro{
+	background-color: white ;
+	width: 900px;
+	padding: 50px ;
+	margin: 60px auto;
+	border-radius: 8px;
+	box-shadow: 0 15px 35px black	
+	
+}
+
+.miniintro{
+	padding-right:150px;
+	padding-left:150px;
+}
+
+.hobbies{
+	background-color: #4ba3c3 ;
+	width: 900px;
+	padding: 20px ;
+	margin: 10px auto;
+	border-radius: 8px;
+	box-shadow: 0 15px 35px black	
+}
+
+.scholarship{
+	background-color: #D1D646 ;
+	width: 900px;
+	padding: 20px ;
+	margin: 10px auto;
+	border-radius: 8px;
+	box-shadow: 0 15px 35px black	
+}
+
+.dreams {
+	background-color: #E01A4F ;
+	width: 900px;
+	padding: 20px ;
+	margin: 10px auto;
+	border-radius: 8px;
+	box-shadow: 0 15px 35px black	
+}
+
+.follow{
+	background-color: white ;
+	width: 900px;
+	padding: 20px ;
+	margin: 10px auto;
+	border-radius: 8px;
+	box-shadow: 0 15px 35px black
+}
+
+.followtitle{
+	color:#e01a4f;
+	font-family: 'Dela Gothic One', cursive;
+	padding-right:350px;
+	padding-left:350px;
+}
+
+.title{
+	padding-right:350px;
+	padding-left:350px;
+}
+
+#photo{
+	border: 10px solid #052F5F;
+	border-radius: 50%
+
+}
+
+i{
+	font-size: 60px;
+	letter-spacing: 60px;
+	padding-left: 100px;
+	padding-right:70px;
+}
+	
+ul{
+  list-style-type:none;
+  padding: 0;
+  margin: 0;
+}
+li{
+  padding-left: 16px;
+}
+li::before{
+  content:"💭" ;
+  padding-right: 8px;
+  color: green;
+}
+
+ 
+<i class="far fa-heart">
+
+}
+ .container{
+ 	background-color:yellow;
+ }
+
+@media (max-width: 960px) {
+  .{
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .{
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {
+  . {
+    width: 300px;
+  }
+}
